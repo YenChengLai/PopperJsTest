@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/YenChengLai/PopperJsTest/issues"
   },
-  "homepage": "https://github.com/YenChengLai/PopperJsTest#readme"
+  "homepage": "https://github.com/YenChengLai/PopperJsTest#readme",
+  "dependencies": {
+    "popper.js": "^1.16.1"
+  }
 }
