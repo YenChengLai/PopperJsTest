@@ -1,0 +1,19 @@
+{
+  "name": "popperjstest",
+  "version": "1.0.0",
+  "description": "A testing project for popper.js released by Techtouch.inc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YenChengLai/PopperJsTest.git"
+  },
+  "author": "YenCheng Lai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YenChengLai/PopperJsTest/issues"
+  },
+  "homepage": "https://github.com/YenChengLai/PopperJsTest#readme"
+}
